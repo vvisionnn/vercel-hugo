@@ -1,5 +1,6 @@
 ---
 title: "博客迁移计划"
+date: 2020-09-20T15:41:15+08:00
 keywords: ["transfer", "plan"]
 description: "博客迁移计划"
 tags: ["transfer", "plan"]
