@@ -1,4 +1,4 @@
 # test post
 
 - ok
-- [] ok
+  -[] ok
