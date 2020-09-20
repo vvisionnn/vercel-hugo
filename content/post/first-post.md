@@ -13,7 +13,7 @@ this is my first post deployed on vercel
 
 ## test golang code block
 
-```golang
+```go
 package main
 
 import "fmt"
